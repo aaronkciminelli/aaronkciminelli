@@ -23,13 +23,7 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronkciminelli&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aaronkciminelli)  
 
-![GitHub metrics](https://metrics.lecoq.io/aaronkciminelli)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aaronkciminelli)  
-
-![Profile views](https://gpvc.arturio.dev/aaronkciminelli)  
 
 
 
